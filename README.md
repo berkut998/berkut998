@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![codewars](https://www.codewars.com/users/mamay98/badges/micro)](https://www.codewars.com/users/mamay98)
 <!--
 **berkut998/berkut998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
